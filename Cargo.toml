@@ -2,7 +2,7 @@
 name = "noisebreak"
 version = "0.1.0"
 edition = "2021"
-authors = ["Robbert van der Helm <mail@robbertvanderhelm.nl>"]
+authors = ["Robbert van der Helm (original iced nih-plug example)", "JXQU3 (the plugin)"]
 license = "ISC"
 
 description = "A simple gain plugin with an iced GUI"
